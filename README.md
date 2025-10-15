@@ -22,8 +22,9 @@ Este proyecto contiene un pipeline completo de **ETL (Extracción, Transformaci�
 
 ## Cómo usarlo
 1. Abrir `ETLParcial2.ipynb` en Google Colab.
-2. Ejecutar las celdas en orden.
-3. Ajustar rutas de datos si se usan archivos locales.
+2. link https://colab.research.google.com/drive/1PxMIUBJZhYmYOgaY_qZIIcGwmuCrPCTt?usp=sharing
+3. Ejecutar las celdas en orden.
+4. Ajustar rutas de datos si se usan archivos locales.
 
 ## Requisitos
 - Python 3.x
